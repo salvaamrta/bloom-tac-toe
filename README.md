@@ -9,7 +9,7 @@ A playful twist on the classic Tic Tac Toe, featuring emoji-powered fun and two 
 - Choose your game mode: Player vs Player or Player vs Computer.
 - Take turns placing your emoji (🌷 or 🌱 / 🤖) on the 3x3 grid.
 - First to align 3 emojis in a row, column, or diagonal wins!
-- Draws are possible too — it's not always about winning 😉.
+- Draws are possible too — it's not always about winning yk 😉
 
 ## 🛠️ Built With
 - HTML
@@ -27,8 +27,8 @@ To bring a cozy, charming spin to a nostalgic classic game i used to play growin
 
 ---
 
-Feel free to fork, play, and share with your friends! 💖.
+Feel free to fork, play, and share with your friends! 💖
 
-Pull requests and feedback are always welcome 😊.
+Pull requests and feedback are always welcome 😊
 
-Planning to add an emoji selector soon, so players can pick their own fave emoji to play with! but we'll see later lah ya 😆.
+Planning to add an emoji selector soon, so players can pick their own fave emoji to play with! but we'll see later lah ya 😆
