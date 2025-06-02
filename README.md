@@ -27,6 +27,8 @@ To bring a cozy, charming spin to a nostalgic classic game i used to play growin
 
 ---
 
-Feel free to fork, play, and share with your friends! 💖
-Pull requests and feedback are always welcome 😊
-ps: Planning to add an emoji selector soon, so players can pick their own fave emoji to play with! but we'll see later lah ya 😆
+Feel free to fork, play, and share with your friends! 💖.
+
+Pull requests and feedback are always welcome 😊.
+
+Planning to add an emoji selector soon, so players can pick their own fave emoji to play with! but we'll see later lah ya 😆.
